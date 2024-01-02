@@ -1,0 +1,758 @@
+<rdf:RDF
+    xmlns:dct="http://purl.org/dc/terms/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xkos="http://rdf-vocabulary.ddialliance.org/xkos#"
+    xmlns:cs="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/"
+    xmlns:ct="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:colt="https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#" > 
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/3">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">siderietknol / siderietlens</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>3</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/28">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">glauconiethoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>28</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/7">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">sferosideriet</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>7</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/16">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">paleosol / gesloten bedding</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>16</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/20">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">gepyritiseerd</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>20</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/64">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">zandige banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>64</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/32">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">verkiezeld</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>32</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/76">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">anhydrietknollen / lenzen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>76</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/40">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">gipsknollen / lenzen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>40</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/84">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">dolomietbanken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>84</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/52">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kalklenzen / bankjes</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>52</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/24">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kwartsietisch</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>24</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/68">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kalkrijke banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>68</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/36">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">fosfaatknol</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>36</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/44">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">dolomiethoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>44</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/12">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">koolklasten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>12</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/56">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">micahoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>56</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/60">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">basisgrind</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>60</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/72">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">onregelmatige verkiezeling (concreties)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>72</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/80">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">siltsteenbanken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>80</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/0">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">onbepaald</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>0</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/4">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">tonstein</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>4</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/59">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">zandig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>59</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/15">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">poreus</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>15</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/8">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kaoliniet oölieten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>8</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/27">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">steenbrokjes</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>27</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/19">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">escaille</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>19</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/31">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">vuursteenhoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>31</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/75">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kalkhoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>75</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/43">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">marmering / spikkeling</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>43</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/51">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kleiig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>51</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/63">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">mergelige banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>63</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/79">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kleisteenklasten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>79</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/35">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">carbonaatconcretie</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>35</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/11">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">ingekoolde stammen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>11</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/55">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">ligniethoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>55</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/67">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kristallijn</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>67</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/23">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">veldspaatrijk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>23</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/71">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">grofkorrelig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>71</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/83">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">chalcopyrietknollen / -lagen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>83</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/1">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">bitumineus / kolig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>1</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/5">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">doffe pyriet</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>5</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/18">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">valse muur (vloer)</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>18</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/9">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">coquina / schelpenkalk</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>9</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/26">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">venig / veenhoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>26</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/38">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">anhydriet / gipshoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>38</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/secundairekenmerktype">
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/85"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/26"/>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Collection"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/86"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/30"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/6"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/72"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/31"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/33"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/15"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/77"/>
+    <skos:mappingRelation rdf:resource="file:///tmp/Rtmph1EMmk/secundairekenmerktype"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/41"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/21"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/23"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/83"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/65"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/42"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/52"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/67"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/1"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/58"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/24"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/44"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/3"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/62"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/76"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/68"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/37"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/4"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/10"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/12"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/13"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/27"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/28"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/7"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/32"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/34"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/8"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/80"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/60"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/53"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/16"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/78"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/55"/>
+    <dc:identifier>secundairekenmerktype</dc:identifier>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/35"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/73"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/17"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/79"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/19"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/43"/>
+    <skos:inScheme rdf:resource="file:///tmp/Rtmph1EMmk/cs"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/45"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/25"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/63"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/40"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/69"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/38"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/46"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/84"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/5"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/64"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/59"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/70"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/14"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/71"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/29"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/9"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/81"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/61"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/54"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/20"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/56"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/22"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/36"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/74"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/82"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/51"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/18"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/66"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/0"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/57"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/2"/>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/75"/>
+    <skos:prefLabel xml:lang="nl">Collectie van secundairekenmerktype.</skos:prefLabel>
+    <skos:member rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/11"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/86">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">pyriet</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>86</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/42">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">silikaathoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>42</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/54">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">lemig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>54</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/10">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">koolstrepen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>10</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/62">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kleiige banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>62</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/74">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">zandsteenklasten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>74</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/30">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">vivianiethoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>30</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/46">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">'coal ball'</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>46</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/58">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">zacht</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>58</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/14">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">carbonaathoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>14</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/66">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">markasietknollen</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>66</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/22">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">verweerd</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>22</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/78">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">siltsteenklasten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>78</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/34">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">brokkelig / splinterig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>34</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/82">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kleisteenlenzen / -banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>82</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/70">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">fijnkorrelig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>70</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/2">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">siderietband</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>2</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/17">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">doorworteld / organische resten / houtresten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>17</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/29">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kwartshoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>29</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/6">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">helle pyriet</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>6</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/37">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">pyrietknol / laag</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>37</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/53">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">limoniet- / ijzerhoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>53</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/65">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">grindbanken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>65</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/21">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">vals dak</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>21</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/73">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">hematiethoudend / hematietoölieten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>73</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/85">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">krijtklasten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>85</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/41">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">psammitisch</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>41</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype">
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/65"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/42"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/67"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/5"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/44"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/7"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/80"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/54"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/68"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/62"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/56"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/8"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/2"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/13"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/74"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/51"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/29"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/33"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/75"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/45"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/18"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/69"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/46"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/9"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/60"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/37"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/0"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/58"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/30"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/72"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/31"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/77"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/43"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/25"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/61"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/63"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/1"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/40"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/3"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/22"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/14"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/59"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/64"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/52"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/4"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/34"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/76"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/11"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/35"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/26"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/81"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/38"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/20"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/82"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/15"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/84"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/66"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/32"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/6"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/53"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/78"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/55"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/79"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/73"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/21"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/23"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/85"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/17"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/24"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/86"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/10"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/19"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/12"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/36"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/70"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/57"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/27"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/71"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/28"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/41"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/83"/>
+    <skos:hasTopConcept rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/16"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/57">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">harde banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>57</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/13">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">andere klasten</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>13</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/25">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">korrelig</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>25</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/69">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">zachte banken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>69</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/33">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">ontkalkt</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>33</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/77">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">sideriethoudend</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>77</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/45">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">septaria</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>45</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/61">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">zandsteenbanken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>61</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/81">
+    <skos:topConceptOf rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <skos:prefLabel xml:lang="nl">kalksteenbanken</skos:prefLabel>
+    <skos:inScheme rdf:resource="https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/secundairekenmerktype"/>
+    <dc:identifier>81</dc:identifier>
+    <rdf:type rdf:resource="http://www.w3.org/2004/02/skos/core#Concept"/>
+  </rdf:Description>
+</rdf:RDF>

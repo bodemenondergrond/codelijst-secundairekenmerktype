@@ -1,8 +1,8 @@
-# codelijst-secundairekenmerktypes
+# codelijst-secundairekenmerktype
 
 ## Samenvatting
 
-De codelijst 'secundairekenmerktypes' bevat eenduidige benamingen van ...
+De codelijst 'secundairekenmerktype' bevat eenduidige benamingen van ...
 
 
 ## Projectinhoud

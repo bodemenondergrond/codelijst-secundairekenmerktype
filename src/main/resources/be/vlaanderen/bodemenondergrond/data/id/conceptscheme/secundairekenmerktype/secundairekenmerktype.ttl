@@ -1,0 +1,512 @@
+@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/> .
+@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
+@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/> .
+@prefix dc:   <http://purl.org/dc/elements/1.1/> .
+@prefix dct:  <http://purl.org/dc/terms/> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
+@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
+
+ct:2    rdf:type           skos:Concept;
+        dc:identifier      "2";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "siderietband"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:29   rdf:type           skos:Concept;
+        dc:identifier      "29";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kwartshoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:57   rdf:type           skos:Concept;
+        dc:identifier      "57";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "harde banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:85   rdf:type           skos:Concept;
+        dc:identifier      "85";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "krijtklasten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:16   rdf:type           skos:Concept;
+        dc:identifier      "16";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "paleosol / gesloten bedding"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:44   rdf:type           skos:Concept;
+        dc:identifier      "44";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "dolomiethoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:72   rdf:type           skos:Concept;
+        dc:identifier      "72";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "onregelmatige verkiezeling (concreties)"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:31   rdf:type           skos:Concept;
+        dc:identifier      "31";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "vuursteenhoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:8    rdf:type           skos:Concept;
+        dc:identifier      "8";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kaoliniet oölieten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:78   rdf:type           skos:Concept;
+        dc:identifier      "78";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "siltsteenklasten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:37   rdf:type           skos:Concept;
+        dc:identifier      "37";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "pyrietknol / laag"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:65   rdf:type           skos:Concept;
+        dc:identifier      "65";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "grindbanken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:24   rdf:type           skos:Concept;
+        dc:identifier      "24";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kwartsietisch"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:52   rdf:type           skos:Concept;
+        dc:identifier      "52";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kalklenzen / bankjes"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:80   rdf:type           skos:Concept;
+        dc:identifier      "80";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "siltsteenbanken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:11   rdf:type           skos:Concept;
+        dc:identifier      "11";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "ingekoolde stammen"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:3    rdf:type           skos:Concept;
+        dc:identifier      "3";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "siderietknol / siderietlens"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:58   rdf:type           skos:Concept;
+        dc:identifier      "58";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "zacht"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:86   rdf:type           skos:Concept;
+        dc:identifier      "86";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "pyriet"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:17   rdf:type           skos:Concept;
+        dc:identifier      "17";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "doorworteld / organische resten / houtresten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:45   rdf:type           skos:Concept;
+        dc:identifier      "45";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "septaria"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:73   rdf:type           skos:Concept;
+        dc:identifier      "73";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "hematiethoudend / hematietoölieten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:32   rdf:type           skos:Concept;
+        dc:identifier      "32";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "verkiezeld"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:60   rdf:type           skos:Concept;
+        dc:identifier      "60";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "basisgrind"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:9    rdf:type           skos:Concept;
+        dc:identifier      "9";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "coquina / schelpenkalk"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:79   rdf:type           skos:Concept;
+        dc:identifier      "79";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kleisteenklasten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:38   rdf:type           skos:Concept;
+        dc:identifier      "38";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "anhydriet / gipshoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:66   rdf:type           skos:Concept;
+        dc:identifier      "66";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "markasietknollen"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:25   rdf:type           skos:Concept;
+        dc:identifier      "25";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "korrelig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:53   rdf:type           skos:Concept;
+        dc:identifier      "53";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "limoniet- / ijzerhoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:81   rdf:type           skos:Concept;
+        dc:identifier      "81";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kalksteenbanken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:12   rdf:type           skos:Concept;
+        dc:identifier      "12";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "koolklasten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:40   rdf:type           skos:Concept;
+        dc:identifier      "40";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "gipsknollen / lenzen"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:4    rdf:type           skos:Concept;
+        dc:identifier      "4";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "tonstein"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:59   rdf:type           skos:Concept;
+        dc:identifier      "59";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "zandig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:18   rdf:type           skos:Concept;
+        dc:identifier      "18";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "valse muur (vloer)"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:46   rdf:type           skos:Concept;
+        dc:identifier      "46";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "'coal ball'"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:74   rdf:type           skos:Concept;
+        dc:identifier      "74";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "zandsteenklasten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:33   rdf:type           skos:Concept;
+        dc:identifier      "33";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "ontkalkt"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:61   rdf:type           skos:Concept;
+        dc:identifier      "61";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "zandsteenbanken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:20   rdf:type           skos:Concept;
+        dc:identifier      "20";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "gepyritiseerd"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:67   rdf:type           skos:Concept;
+        dc:identifier      "67";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kristallijn"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:26   rdf:type           skos:Concept;
+        dc:identifier      "26";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "venig / veenhoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:54   rdf:type           skos:Concept;
+        dc:identifier      "54";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "lemig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:82   rdf:type           skos:Concept;
+        dc:identifier      "82";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kleisteenlenzen / -banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:13   rdf:type           skos:Concept;
+        dc:identifier      "13";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "andere klasten"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:41   rdf:type           skos:Concept;
+        dc:identifier      "41";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "psammitisch"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:5    rdf:type           skos:Concept;
+        dc:identifier      "5";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "doffe pyriet"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:19   rdf:type           skos:Concept;
+        dc:identifier      "19";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "escaille"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:75   rdf:type           skos:Concept;
+        dc:identifier      "75";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kalkhoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:34   rdf:type           skos:Concept;
+        dc:identifier      "34";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "brokkelig / splinterig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:62   rdf:type           skos:Concept;
+        dc:identifier      "62";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kleiige banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:21   rdf:type           skos:Concept;
+        dc:identifier      "21";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "vals dak"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:68   rdf:type           skos:Concept;
+        dc:identifier      "68";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kalkrijke banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:0    rdf:type           skos:Concept;
+        dc:identifier      "0";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "onbepaald"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:27   rdf:type           skos:Concept;
+        dc:identifier      "27";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "steenbrokjes"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:55   rdf:type           skos:Concept;
+        dc:identifier      "55";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "ligniethoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:83   rdf:type           skos:Concept;
+        dc:identifier      "83";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "chalcopyrietknollen / -lagen"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:14   rdf:type           skos:Concept;
+        dc:identifier      "14";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "carbonaathoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:42   rdf:type           skos:Concept;
+        dc:identifier      "42";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "silikaathoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:70   rdf:type           skos:Concept;
+        dc:identifier      "70";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "fijnkorrelig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:6    rdf:type           skos:Concept;
+        dc:identifier      "6";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "helle pyriet"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:76   rdf:type           skos:Concept;
+        dc:identifier      "76";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "anhydrietknollen / lenzen"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:35   rdf:type           skos:Concept;
+        dc:identifier      "35";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "carbonaatconcretie"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:63   rdf:type           skos:Concept;
+        dc:identifier      "63";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "mergelige banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:22   rdf:type           skos:Concept;
+        dc:identifier      "22";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "verweerd"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:69   rdf:type           skos:Concept;
+        dc:identifier      "69";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "zachte banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+colt:secundairekenmerktype
+        rdf:type              skos:Collection;
+        dc:identifier         "secundairekenmerktype";
+        skos:inScheme         <file:///tmp/Rtmph1EMmk/cs>;
+        skos:mappingRelation  <file:///tmp/Rtmph1EMmk/secundairekenmerktype>;
+        skos:member           ct:85 , ct:26 , ct:86 , ct:30 , ct:6 , ct:72 , ct:31 , ct:33 , ct:15 , ct:77 , ct:41 , ct:21 , ct:23 , ct:83 , ct:65 , ct:52 , ct:42 , ct:67 , ct:1 , ct:44 , ct:24 , ct:58 , ct:3 , ct:62 , ct:76 , ct:68 , ct:37 , ct:4 , ct:10 , ct:12 , ct:13 , ct:27 , ct:28 , ct:7 , ct:32 , ct:34 , ct:8 , ct:80 , ct:60 , ct:53 , ct:16 , ct:78 , ct:55 , ct:35 , ct:73 , ct:17 , ct:79 , ct:19 , ct:43 , ct:45 , ct:25 , ct:63 , ct:40 , ct:69 , ct:38 , ct:46 , ct:84 , ct:5 , ct:64 , ct:59 , ct:70 , ct:14 , ct:71 , ct:29 , ct:9 , ct:81 , ct:61 , ct:54 , ct:20 , ct:56 , ct:22 , ct:36 , ct:74 , ct:82 , ct:51 , ct:18 , ct:66 , ct:0 , ct:57 , ct:2 , ct:75 , ct:11;
+        skos:prefLabel        "Collectie van secundairekenmerktype."@nl .
+
+ct:1    rdf:type           skos:Concept;
+        dc:identifier      "1";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "bitumineus / kolig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:28   rdf:type           skos:Concept;
+        dc:identifier      "28";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "glauconiethoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:56   rdf:type           skos:Concept;
+        dc:identifier      "56";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "micahoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:84   rdf:type           skos:Concept;
+        dc:identifier      "84";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "dolomietbanken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:15   rdf:type           skos:Concept;
+        dc:identifier      "15";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "poreus"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:43   rdf:type           skos:Concept;
+        dc:identifier      "43";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "marmering / spikkeling"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:71   rdf:type           skos:Concept;
+        dc:identifier      "71";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "grofkorrelig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:30   rdf:type           skos:Concept;
+        dc:identifier      "30";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "vivianiethoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:7    rdf:type           skos:Concept;
+        dc:identifier      "7";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "sferosideriet"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:77   rdf:type           skos:Concept;
+        dc:identifier      "77";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "sideriethoudend"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:36   rdf:type           skos:Concept;
+        dc:identifier      "36";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "fosfaatknol"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:64   rdf:type           skos:Concept;
+        dc:identifier      "64";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "zandige banken"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:23   rdf:type           skos:Concept;
+        dc:identifier      "23";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "veldspaatrijk"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+ct:51   rdf:type           skos:Concept;
+        dc:identifier      "51";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "kleiig"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .
+
+cs:secundairekenmerktype
+        skos:hasTopConcept  ct:65 , ct:42 , ct:67 , ct:5 , ct:44 , ct:7 , ct:80 , ct:54 , ct:68 , ct:62 , ct:56 , ct:8 , ct:2 , ct:13 , ct:74 , ct:51 , ct:29 , ct:33 , ct:75 , ct:45 , ct:18 , ct:69 , ct:46 , ct:9 , ct:60 , ct:37 , ct:0 , ct:58 , ct:30 , ct:72 , ct:31 , ct:77 , ct:43 , ct:25 , ct:61 , ct:63 , ct:1 , ct:40 , ct:3 , ct:22 , ct:14 , ct:59 , ct:64 , ct:52 , ct:4 , ct:34 , ct:76 , ct:11 , ct:35 , ct:26 , ct:81 , ct:38 , ct:20 , ct:82 , ct:15 , ct:84 , ct:66 , ct:32 , ct:6 , ct:53 , ct:78 , ct:55 , ct:79 , ct:73 , ct:21 , ct:23 , ct:85 , ct:17 , ct:24 , ct:86 , ct:10 , ct:19 , ct:12 , ct:36 , ct:70 , ct:57 , ct:27 , ct:71 , ct:28 , ct:41 , ct:83 , ct:16 .
+
+ct:10   rdf:type           skos:Concept;
+        dc:identifier      "10";
+        skos:inScheme      cs:secundairekenmerktype;
+        skos:prefLabel     "koolstrepen"@nl;
+        skos:topConceptOf  cs:secundairekenmerktype .

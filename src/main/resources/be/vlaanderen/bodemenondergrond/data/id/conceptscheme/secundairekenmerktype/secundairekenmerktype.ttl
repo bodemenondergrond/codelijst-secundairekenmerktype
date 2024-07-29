@@ -1,512 +1,557 @@
-@prefix colt: <https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/> .
-@prefix cs:   <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/> .
-@prefix ct:   <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/> .
-@prefix dc:   <http://purl.org/dc/elements/1.1/> .
-@prefix dct:  <http://purl.org/dc/terms/> .
-@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
-@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#> .
-@prefix xsd:  <http://www.w3.org/2001/XMLSchema#> .
-
-ct:2    rdf:type           skos:Concept;
-        dc:identifier      "2";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "siderietband"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:29   rdf:type           skos:Concept;
-        dc:identifier      "29";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kwartshoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:57   rdf:type           skos:Concept;
-        dc:identifier      "57";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "harde banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:85   rdf:type           skos:Concept;
-        dc:identifier      "85";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "krijtklasten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:16   rdf:type           skos:Concept;
-        dc:identifier      "16";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "paleosol / gesloten bedding"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:44   rdf:type           skos:Concept;
-        dc:identifier      "44";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "dolomiethoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:72   rdf:type           skos:Concept;
-        dc:identifier      "72";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "onregelmatige verkiezeling (concreties)"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:31   rdf:type           skos:Concept;
-        dc:identifier      "31";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "vuursteenhoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:8    rdf:type           skos:Concept;
-        dc:identifier      "8";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kaoliniet oölieten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:78   rdf:type           skos:Concept;
-        dc:identifier      "78";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "siltsteenklasten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:37   rdf:type           skos:Concept;
-        dc:identifier      "37";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "pyrietknol / laag"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:65   rdf:type           skos:Concept;
-        dc:identifier      "65";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "grindbanken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:24   rdf:type           skos:Concept;
-        dc:identifier      "24";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kwartsietisch"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:52   rdf:type           skos:Concept;
-        dc:identifier      "52";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kalklenzen / bankjes"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:80   rdf:type           skos:Concept;
-        dc:identifier      "80";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "siltsteenbanken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:11   rdf:type           skos:Concept;
-        dc:identifier      "11";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "ingekoolde stammen"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:3    rdf:type           skos:Concept;
-        dc:identifier      "3";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "siderietknol / siderietlens"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:58   rdf:type           skos:Concept;
-        dc:identifier      "58";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "zacht"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:86   rdf:type           skos:Concept;
-        dc:identifier      "86";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "pyriet"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:17   rdf:type           skos:Concept;
-        dc:identifier      "17";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "doorworteld / organische resten / houtresten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:45   rdf:type           skos:Concept;
-        dc:identifier      "45";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "septaria"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:73   rdf:type           skos:Concept;
-        dc:identifier      "73";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "hematiethoudend / hematietoölieten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:32   rdf:type           skos:Concept;
-        dc:identifier      "32";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "verkiezeld"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:60   rdf:type           skos:Concept;
-        dc:identifier      "60";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "basisgrind"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:9    rdf:type           skos:Concept;
-        dc:identifier      "9";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "coquina / schelpenkalk"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:79   rdf:type           skos:Concept;
-        dc:identifier      "79";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kleisteenklasten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:38   rdf:type           skos:Concept;
-        dc:identifier      "38";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "anhydriet / gipshoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:66   rdf:type           skos:Concept;
-        dc:identifier      "66";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "markasietknollen"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:25   rdf:type           skos:Concept;
-        dc:identifier      "25";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "korrelig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:53   rdf:type           skos:Concept;
-        dc:identifier      "53";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "limoniet- / ijzerhoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:81   rdf:type           skos:Concept;
-        dc:identifier      "81";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kalksteenbanken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:12   rdf:type           skos:Concept;
-        dc:identifier      "12";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "koolklasten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:40   rdf:type           skos:Concept;
-        dc:identifier      "40";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "gipsknollen / lenzen"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:4    rdf:type           skos:Concept;
-        dc:identifier      "4";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "tonstein"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:59   rdf:type           skos:Concept;
-        dc:identifier      "59";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "zandig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:18   rdf:type           skos:Concept;
-        dc:identifier      "18";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "valse muur (vloer)"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:46   rdf:type           skos:Concept;
-        dc:identifier      "46";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "'coal ball'"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:74   rdf:type           skos:Concept;
-        dc:identifier      "74";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "zandsteenklasten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:33   rdf:type           skos:Concept;
-        dc:identifier      "33";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "ontkalkt"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:61   rdf:type           skos:Concept;
-        dc:identifier      "61";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "zandsteenbanken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:20   rdf:type           skos:Concept;
-        dc:identifier      "20";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "gepyritiseerd"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:67   rdf:type           skos:Concept;
-        dc:identifier      "67";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kristallijn"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:26   rdf:type           skos:Concept;
-        dc:identifier      "26";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "venig / veenhoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:54   rdf:type           skos:Concept;
-        dc:identifier      "54";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "lemig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:82   rdf:type           skos:Concept;
-        dc:identifier      "82";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kleisteenlenzen / -banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:13   rdf:type           skos:Concept;
-        dc:identifier      "13";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "andere klasten"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:41   rdf:type           skos:Concept;
-        dc:identifier      "41";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "psammitisch"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:5    rdf:type           skos:Concept;
-        dc:identifier      "5";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "doffe pyriet"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:19   rdf:type           skos:Concept;
-        dc:identifier      "19";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "escaille"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:75   rdf:type           skos:Concept;
-        dc:identifier      "75";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kalkhoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:34   rdf:type           skos:Concept;
-        dc:identifier      "34";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "brokkelig / splinterig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:62   rdf:type           skos:Concept;
-        dc:identifier      "62";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kleiige banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:21   rdf:type           skos:Concept;
-        dc:identifier      "21";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "vals dak"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:68   rdf:type           skos:Concept;
-        dc:identifier      "68";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kalkrijke banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:0    rdf:type           skos:Concept;
-        dc:identifier      "0";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "onbepaald"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:27   rdf:type           skos:Concept;
-        dc:identifier      "27";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "steenbrokjes"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:55   rdf:type           skos:Concept;
-        dc:identifier      "55";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "ligniethoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:83   rdf:type           skos:Concept;
-        dc:identifier      "83";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "chalcopyrietknollen / -lagen"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:14   rdf:type           skos:Concept;
-        dc:identifier      "14";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "carbonaathoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:42   rdf:type           skos:Concept;
-        dc:identifier      "42";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "silikaathoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:70   rdf:type           skos:Concept;
-        dc:identifier      "70";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "fijnkorrelig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:6    rdf:type           skos:Concept;
-        dc:identifier      "6";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "helle pyriet"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:76   rdf:type           skos:Concept;
-        dc:identifier      "76";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "anhydrietknollen / lenzen"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:35   rdf:type           skos:Concept;
-        dc:identifier      "35";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "carbonaatconcretie"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:63   rdf:type           skos:Concept;
-        dc:identifier      "63";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "mergelige banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:22   rdf:type           skos:Concept;
-        dc:identifier      "22";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "verweerd"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:69   rdf:type           skos:Concept;
-        dc:identifier      "69";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "zachte banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-colt:secundairekenmerktype
-        rdf:type              skos:Collection;
-        dc:identifier         "secundairekenmerktype";
-        skos:inScheme         <file:///tmp/Rtmph1EMmk/cs>;
-        skos:mappingRelation  <file:///tmp/Rtmph1EMmk/secundairekenmerktype>;
-        skos:member           ct:85 , ct:26 , ct:86 , ct:30 , ct:6 , ct:72 , ct:31 , ct:33 , ct:15 , ct:77 , ct:41 , ct:21 , ct:23 , ct:83 , ct:65 , ct:52 , ct:42 , ct:67 , ct:1 , ct:44 , ct:24 , ct:58 , ct:3 , ct:62 , ct:76 , ct:68 , ct:37 , ct:4 , ct:10 , ct:12 , ct:13 , ct:27 , ct:28 , ct:7 , ct:32 , ct:34 , ct:8 , ct:80 , ct:60 , ct:53 , ct:16 , ct:78 , ct:55 , ct:35 , ct:73 , ct:17 , ct:79 , ct:19 , ct:43 , ct:45 , ct:25 , ct:63 , ct:40 , ct:69 , ct:38 , ct:46 , ct:84 , ct:5 , ct:64 , ct:59 , ct:70 , ct:14 , ct:71 , ct:29 , ct:9 , ct:81 , ct:61 , ct:54 , ct:20 , ct:56 , ct:22 , ct:36 , ct:74 , ct:82 , ct:51 , ct:18 , ct:66 , ct:0 , ct:57 , ct:2 , ct:75 , ct:11;
-        skos:prefLabel        "Collectie van secundairekenmerktype."@nl .
-
-ct:1    rdf:type           skos:Concept;
-        dc:identifier      "1";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "bitumineus / kolig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:28   rdf:type           skos:Concept;
-        dc:identifier      "28";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "glauconiethoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:56   rdf:type           skos:Concept;
-        dc:identifier      "56";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "micahoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:84   rdf:type           skos:Concept;
-        dc:identifier      "84";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "dolomietbanken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:15   rdf:type           skos:Concept;
-        dc:identifier      "15";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "poreus"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:43   rdf:type           skos:Concept;
-        dc:identifier      "43";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "marmering / spikkeling"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:71   rdf:type           skos:Concept;
-        dc:identifier      "71";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "grofkorrelig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:30   rdf:type           skos:Concept;
-        dc:identifier      "30";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "vivianiethoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:7    rdf:type           skos:Concept;
-        dc:identifier      "7";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "sferosideriet"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:77   rdf:type           skos:Concept;
-        dc:identifier      "77";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "sideriethoudend"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:36   rdf:type           skos:Concept;
-        dc:identifier      "36";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "fosfaatknol"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:64   rdf:type           skos:Concept;
-        dc:identifier      "64";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "zandige banken"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:23   rdf:type           skos:Concept;
-        dc:identifier      "23";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "veldspaatrijk"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-ct:51   rdf:type           skos:Concept;
-        dc:identifier      "51";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "kleiig"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
-
-cs:secundairekenmerktype
-        skos:hasTopConcept  ct:65 , ct:42 , ct:67 , ct:5 , ct:44 , ct:7 , ct:80 , ct:54 , ct:68 , ct:62 , ct:56 , ct:8 , ct:2 , ct:13 , ct:74 , ct:51 , ct:29 , ct:33 , ct:75 , ct:45 , ct:18 , ct:69 , ct:46 , ct:9 , ct:60 , ct:37 , ct:0 , ct:58 , ct:30 , ct:72 , ct:31 , ct:77 , ct:43 , ct:25 , ct:61 , ct:63 , ct:1 , ct:40 , ct:3 , ct:22 , ct:14 , ct:59 , ct:64 , ct:52 , ct:4 , ct:34 , ct:76 , ct:11 , ct:35 , ct:26 , ct:81 , ct:38 , ct:20 , ct:82 , ct:15 , ct:84 , ct:66 , ct:32 , ct:6 , ct:53 , ct:78 , ct:55 , ct:79 , ct:73 , ct:21 , ct:23 , ct:85 , ct:17 , ct:24 , ct:86 , ct:10 , ct:19 , ct:12 , ct:36 , ct:70 , ct:57 , ct:27 , ct:71 , ct:28 , ct:41 , ct:83 , ct:16 .
-
-ct:10   rdf:type           skos:Concept;
-        dc:identifier      "10";
-        skos:inScheme      cs:secundairekenmerktype;
-        skos:prefLabel     "koolstrepen"@nl;
-        skos:topConceptOf  cs:secundairekenmerktype .
+@prefix concept: <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/>.
+@prefix collectie: <https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/>.
+@prefix access_right: <http://publications.europa.eu/resource/authority/access-right/>.
+@prefix adms: <http://www.w3.org/ns/adms#>.
+@prefix assettype: <http://purl.org/adms/assettype/>.
+@prefix conceptscheme: <https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/>.
+@prefix country: <http://publications.europa.eu/resource/authority/country/>.
+@prefix datasets: <https://datasets.omgeving.vlaanderen.be/>.
+@prefix datatheme_be: <http://vocab.belgif.be/auth/datatheme/>.
+@prefix datatheme_eu: <http://publications.europa.eu/resource/authority/data-theme/>.
+@prefix dbo: <http://dbpedia.org/ontology/>.
+@prefix dcat: <http://www.w3.org/ns/dcat#>.
+@prefix dc: <http://purl.org/dc/elements/1.1/>.
+@prefix dcterms: <http://purl.org/dc/terms/>.
+@prefix dct: <http://purl.org/dc/terms/>.
+@prefix eurovoc: <http://eurovoc.europa.eu/>.
+@prefix file_type: <http://publications.europa.eu/resource/authority/file-type/>.
+@prefix foaf: <http://xmlns.com/foaf/0.1/>.
+@prefix formats: <http://www.w3.org/ns/formats/>.
+@prefix frequency: <http://publications.europa.eu/resource/authority/frequency/>.
+@prefix gemet: <http://www.eionet.europa.eu/gemet/concept/>.
+@prefix licence: <http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/>.
+@prefix metadata: <https://data.omgeving.vlaanderen.be/ns/metadata#>.
+@prefix omg_catalog: <https://data.bodemenondergrond.vlaanderen.be/id/catalog/>.
+@prefix omg_catalog_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/catalog/>.
+@prefix omg_collection: <https://data.bodemenondergrond.vlaanderen.be/id/collection/>.
+@prefix omg_dataservice: <https://data.bodemenondergrond.vlaanderen.be/id/dataservice/>.
+@prefix omg_dataset_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/dataset/>.
+@prefix omg_dataset: <https://data.bodemenondergrond.vlaanderen.be/id/dataset/>.
+@prefix omg_distribution_doc: <https://data.bodemenondergrond.vlaanderen.be/doc/distribution/>.
+@prefix omg_distribution: <https://data.bodemenondergrond.vlaanderen.be/id/distribution/>.
+@prefix omg_graphcollection: <https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/>.
+@prefix omg_graph: <https://data.bodemenondergrond.vlaanderen.be/id/graph/>.
+@prefix omg_id: <https://data.bodemenondergrond.vlaanderen.be/id/>.
+@prefix omg_named_graph: <https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/>.
+@prefix omg_ontology: <https://data.bodemenondergrond.vlaanderen.be/id/ontology/>.
+@prefix omg_package: <https://data.bodemenondergrond.vlaanderen.be/id/package/>.
+@prefix omg_periodoftime: <https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/>.
+@prefix omg_service: <https://data.bodemenondergrond.vlaanderen.be/id/service/>.
+@prefix omg_vcard: <https://data.bodemenondergrond.vlaanderen.be/id/vcard/>.
+@prefix ovo: <http://data.vlaanderen.be/id/organisatie/>.
+@prefix owl: <http://www.w3.org/2002/07/owl#>.
+@prefix repo: <https://repo.omgeving.vlaanderen.be/artifactory/release/>.
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
+@prefix sd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#>.
+@prefix spdx: <http://spdx.org/rdf/terms#>.
+@prefix ssd: <http://www.w3.org/ns/sparql-service-description#>.
+@prefix ts: <http://www.w3.org/ns/formats/>.
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#>.
+@prefix void: <http://rdfs.org/ns/void#>.
+@prefix wise: <http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/>.
+@prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+
+collectie:secundairekenmerktype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.collection.secundairekenmerktype.secundairekenmerktype";
+    a skos:Collection;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:member <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/0>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/10>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/11>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/12>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/13>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/14>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/15>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/16>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/17>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/24>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/25>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/26>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/27>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/28>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/29>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/30>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/31>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/32>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/33>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/34>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/35>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/36>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/37>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/38>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/40>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/41>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/42>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/43>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/44>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/45>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/46>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/51>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/52>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/53>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/54>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/55>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/56>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/57>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/58>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/59>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/5>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/60>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/61>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/62>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/63>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/64>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/65>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/66>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/67>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/68>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/69>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/70>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/71>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/72>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/73>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/74>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/75>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/76>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/77>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/78>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/79>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/80>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/81>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/82>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/83>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/84>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/85>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/86>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/9>;
+    skos:prefLabel "Collectie van secundairekenmerktype."@nl.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/0> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.0";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "0";
+    skos:prefLabel "onbepaald"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/10> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.10";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "10";
+    skos:prefLabel "koolstrepen"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/11> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.11";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "11";
+    skos:prefLabel "ingekoolde stammen"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/12> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.12";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "12";
+    skos:prefLabel "koolklasten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/13> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.13";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "13";
+    skos:prefLabel "andere klasten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/14> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.14";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "14";
+    skos:prefLabel "carbonaathoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/15> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.15";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "15";
+    skos:prefLabel "poreus"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/16> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.16";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "16";
+    skos:prefLabel "paleosol / gesloten bedding"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/17> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.17";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "17";
+    skos:prefLabel "doorworteld / organische resten / houtresten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/18> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.18";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "18";
+    skos:prefLabel "valse muur (vloer)"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/19> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.19";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "19";
+    skos:prefLabel "escaille"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/1> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.1";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "1";
+    skos:prefLabel "bitumineus / kolig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/20> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.20";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "20";
+    skos:prefLabel "gepyritiseerd"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/21> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.21";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "21";
+    skos:prefLabel "vals dak"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/22> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.22";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "22";
+    skos:prefLabel "verweerd"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/23> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.23";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "23";
+    skos:prefLabel "veldspaatrijk"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/24> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.24";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "24";
+    skos:prefLabel "kwartsietisch"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/25> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.25";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "25";
+    skos:prefLabel "korrelig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/26> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.26";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "26";
+    skos:prefLabel "venig / veenhoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/27> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.27";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "27";
+    skos:prefLabel "steenbrokjes"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/28> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.28";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "28";
+    skos:prefLabel "glauconiethoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/29> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.29";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "29";
+    skos:prefLabel "kwartshoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/2> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.2";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "2";
+    skos:prefLabel "siderietband"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/30> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.30";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "30";
+    skos:prefLabel "vivianiethoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/31> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.31";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "31";
+    skos:prefLabel "vuursteenhoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/32> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.32";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "32";
+    skos:prefLabel "verkiezeld"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/33> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.33";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "33";
+    skos:prefLabel "ontkalkt"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/34> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.34";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "34";
+    skos:prefLabel "brokkelig / splinterig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/35> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.35";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "35";
+    skos:prefLabel "carbonaatconcretie"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/36> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.36";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "36";
+    skos:prefLabel "fosfaatknol"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/37> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.37";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "37";
+    skos:prefLabel "pyrietknol / laag"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/38> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.38";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "38";
+    skos:prefLabel "anhydriet / gipshoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/3> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.3";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "3";
+    skos:prefLabel "siderietknol / siderietlens"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/40> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.40";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "40";
+    skos:prefLabel "gipsknollen / lenzen"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/41> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.41";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "41";
+    skos:prefLabel "psammitisch"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/42> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.42";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "42";
+    skos:prefLabel "silikaathoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/43> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.43";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "43";
+    skos:prefLabel "marmering / spikkeling"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/44> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.44";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "44";
+    skos:prefLabel "dolomiethoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/45> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.45";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "45";
+    skos:prefLabel "septaria"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/46> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.46";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "46";
+    skos:prefLabel "'coal ball'"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/4> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.4";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "4";
+    skos:prefLabel "tonstein"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/51> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.51";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "51";
+    skos:prefLabel "kleiig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/52> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.52";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "52";
+    skos:prefLabel "kalklenzen / bankjes"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/53> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.53";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "53";
+    skos:prefLabel "limoniet- / ijzerhoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/54> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.54";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "54";
+    skos:prefLabel "lemig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/55> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.55";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "55";
+    skos:prefLabel "ligniethoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/56> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.56";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "56";
+    skos:prefLabel "micahoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/57> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.57";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "57";
+    skos:prefLabel "harde banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/58> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.58";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "58";
+    skos:prefLabel "zacht"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/59> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.59";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "59";
+    skos:prefLabel "zandig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/5> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.5";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "5";
+    skos:prefLabel "doffe pyriet"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/60> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.60";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "60";
+    skos:prefLabel "basisgrind"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/61> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.61";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "61";
+    skos:prefLabel "zandsteenbanken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/62> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.62";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "62";
+    skos:prefLabel "kleiige banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/63> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.63";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "63";
+    skos:prefLabel "mergelige banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/64> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.64";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "64";
+    skos:prefLabel "zandige banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/65> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.65";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "65";
+    skos:prefLabel "grindbanken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/66> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.66";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "66";
+    skos:prefLabel "markasietknollen"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/67> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.67";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "67";
+    skos:prefLabel "kristallijn"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/68> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.68";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "68";
+    skos:prefLabel "kalkrijke banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/69> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.69";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "69";
+    skos:prefLabel "zachte banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/6> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.6";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "6";
+    skos:prefLabel "helle pyriet"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/70> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.70";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "70";
+    skos:prefLabel "fijnkorrelig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/71> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.71";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "71";
+    skos:prefLabel "grofkorrelig"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/72> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.72";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "72";
+    skos:prefLabel "onregelmatige verkiezeling (concreties)"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/73> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.73";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "73";
+    skos:prefLabel "hematiethoudend / hematietoölieten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/74> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.74";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "74";
+    skos:prefLabel "zandsteenklasten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/75> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.75";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "75";
+    skos:prefLabel "kalkhoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/76> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.76";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "76";
+    skos:prefLabel "anhydrietknollen / lenzen"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/77> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.77";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "77";
+    skos:prefLabel "sideriethoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/78> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.78";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "78";
+    skos:prefLabel "siltsteenklasten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/79> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.79";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "79";
+    skos:prefLabel "kleisteenklasten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/7> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.7";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "7";
+    skos:prefLabel "sferosideriet"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/80> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.80";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "80";
+    skos:prefLabel "siltsteenbanken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/81> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.81";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "81";
+    skos:prefLabel "kalksteenbanken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/82> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.82";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "82";
+    skos:prefLabel "kleisteenlenzen / -banken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/83> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.83";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "83";
+    skos:prefLabel "chalcopyrietknollen / -lagen"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/84> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.84";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "84";
+    skos:prefLabel "dolomietbanken"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/85> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.85";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "85";
+    skos:prefLabel "krijtklasten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/86> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.86";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "86";
+    skos:prefLabel "pyriet"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/8> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.8";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "8";
+    skos:prefLabel "kaoliniet oölieten"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+<https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/9> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.9";
+    a skos:Concept;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "9";
+    skos:prefLabel "coquina / schelpenkalk"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+conceptscheme:secundairekenmerktype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairekenmerktype";
+    a skos:ConceptScheme;
+    skos:hasTopConcept <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/0>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/10>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/11>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/12>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/13>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/14>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/15>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/16>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/17>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/18>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/19>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/1>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/20>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/21>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/22>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/23>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/24>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/25>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/26>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/27>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/28>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/29>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/2>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/30>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/31>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/32>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/33>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/34>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/35>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/36>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/37>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/38>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/3>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/40>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/41>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/42>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/43>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/44>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/45>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/46>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/4>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/51>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/52>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/53>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/54>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/55>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/56>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/57>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/58>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/59>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/5>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/60>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/61>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/62>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/63>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/64>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/65>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/66>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/67>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/68>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/69>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/6>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/70>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/71>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/72>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/73>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/74>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/75>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/76>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/77>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/78>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/79>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/7>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/80>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/81>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/82>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/83>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/84>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/85>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/86>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/8>, <https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/9>;
+    skos:prefLabel "lijst met types secundaire kenmerken"@nl.

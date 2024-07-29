@@ -1,1759 +1,1317 @@
 {
-    "@graph": [
-        {
-            "@id": "ct:2",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "siderietband"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "2",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "cs:secundairekenmerktype",
-            "skos:hasTopConcept": [
-                {
-                    "@id": "ct:65"
-                },
-                {
-                    "@id": "ct:42"
-                },
-                {
-                    "@id": "ct:67"
-                },
-                {
-                    "@id": "ct:5"
-                },
-                {
-                    "@id": "ct:44"
-                },
-                {
-                    "@id": "ct:7"
-                },
-                {
-                    "@id": "ct:80"
-                },
-                {
-                    "@id": "ct:54"
-                },
-                {
-                    "@id": "ct:68"
-                },
-                {
-                    "@id": "ct:62"
-                },
-                {
-                    "@id": "ct:56"
-                },
-                {
-                    "@id": "ct:8"
-                },
-                {
-                    "@id": "ct:2"
-                },
-                {
-                    "@id": "ct:13"
-                },
-                {
-                    "@id": "ct:74"
-                },
-                {
-                    "@id": "ct:51"
-                },
-                {
-                    "@id": "ct:29"
-                },
-                {
-                    "@id": "ct:33"
-                },
-                {
-                    "@id": "ct:75"
-                },
-                {
-                    "@id": "ct:45"
-                },
-                {
-                    "@id": "ct:18"
-                },
-                {
-                    "@id": "ct:69"
-                },
-                {
-                    "@id": "ct:46"
-                },
-                {
-                    "@id": "ct:9"
-                },
-                {
-                    "@id": "ct:60"
-                },
-                {
-                    "@id": "ct:37"
-                },
-                {
-                    "@id": "ct:0"
-                },
-                {
-                    "@id": "ct:58"
-                },
-                {
-                    "@id": "ct:30"
-                },
-                {
-                    "@id": "ct:72"
-                },
-                {
-                    "@id": "ct:31"
-                },
-                {
-                    "@id": "ct:77"
-                },
-                {
-                    "@id": "ct:43"
-                },
-                {
-                    "@id": "ct:25"
-                },
-                {
-                    "@id": "ct:61"
-                },
-                {
-                    "@id": "ct:63"
-                },
-                {
-                    "@id": "ct:1"
-                },
-                {
-                    "@id": "ct:40"
-                },
-                {
-                    "@id": "ct:3"
-                },
-                {
-                    "@id": "ct:22"
-                },
-                {
-                    "@id": "ct:14"
-                },
-                {
-                    "@id": "ct:59"
-                },
-                {
-                    "@id": "ct:64"
-                },
-                {
-                    "@id": "ct:52"
-                },
-                {
-                    "@id": "ct:4"
-                },
-                {
-                    "@id": "ct:34"
-                },
-                {
-                    "@id": "ct:76"
-                },
-                {
-                    "@id": "ct:11"
-                },
-                {
-                    "@id": "ct:35"
-                },
-                {
-                    "@id": "ct:26"
-                },
-                {
-                    "@id": "ct:81"
-                },
-                {
-                    "@id": "ct:38"
-                },
-                {
-                    "@id": "ct:20"
-                },
-                {
-                    "@id": "ct:82"
-                },
-                {
-                    "@id": "ct:15"
-                },
-                {
-                    "@id": "ct:84"
-                },
-                {
-                    "@id": "ct:66"
-                },
-                {
-                    "@id": "ct:32"
-                },
-                {
-                    "@id": "ct:6"
-                },
-                {
-                    "@id": "ct:53"
-                },
-                {
-                    "@id": "ct:78"
-                },
-                {
-                    "@id": "ct:55"
-                },
-                {
-                    "@id": "ct:79"
-                },
-                {
-                    "@id": "ct:73"
-                },
-                {
-                    "@id": "ct:21"
-                },
-                {
-                    "@id": "ct:23"
-                },
-                {
-                    "@id": "ct:85"
-                },
-                {
-                    "@id": "ct:17"
-                },
-                {
-                    "@id": "ct:24"
-                },
-                {
-                    "@id": "ct:86"
-                },
-                {
-                    "@id": "ct:10"
-                },
-                {
-                    "@id": "ct:19"
-                },
-                {
-                    "@id": "ct:12"
-                },
-                {
-                    "@id": "ct:36"
-                },
-                {
-                    "@id": "ct:70"
-                },
-                {
-                    "@id": "ct:57"
-                },
-                {
-                    "@id": "ct:27"
-                },
-                {
-                    "@id": "ct:71"
-                },
-                {
-                    "@id": "ct:28"
-                },
-                {
-                    "@id": "ct:41"
-                },
-                {
-                    "@id": "ct:83"
-                },
-                {
-                    "@id": "ct:16"
-                }
-            ]
-        },
-        {
-            "@id": "ct:29",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kwartshoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "29",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:57",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "harde banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "57",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:85",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "krijtklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "85",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:16",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "paleosol / gesloten bedding"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "16",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:44",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "dolomiethoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "44",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:72",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "onregelmatige verkiezeling (concreties)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "72",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:31",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "vuursteenhoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "31",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:8",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kaoliniet oölieten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "8",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:78",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "siltsteenklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "78",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:37",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "pyrietknol / laag"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "37",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:65",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "grindbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "65",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:24",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kwartsietisch"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "24",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:52",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kalklenzen / bankjes"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "52",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:80",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "siltsteenbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "80",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:11",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "ingekoolde stammen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "11",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:3",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "siderietknol / siderietlens"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "3",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:58",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zacht"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "58",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:86",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "pyriet"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "86",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:17",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "doorworteld / organische resten / houtresten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "17",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:45",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "septaria"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "45",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:73",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "hematiethoudend / hematietoölieten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "73",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:32",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "verkiezeld"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "32",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:9",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "coquina / schelpenkalk"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "9",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:60",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "basisgrind"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "60",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:79",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleisteenklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "79",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:38",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "anhydriet / gipshoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "38",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:66",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "markasietknollen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "66",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:25",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "korrelig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "25",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:53",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "limoniet- / ijzerhoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "53",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:81",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kalksteenbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "81",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:12",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "koolklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "12",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:40",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "gipsknollen / lenzen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "40",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:4",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "tonstein"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "4",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:59",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zandig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "59",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:18",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "valse muur (vloer)"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "18",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:46",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "'coal ball'"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "46",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:74",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zandsteenklasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "74",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:33",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "ontkalkt"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "33",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:61",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zandsteenbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "61",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:20",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "gepyritiseerd"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "20",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:67",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kristallijn"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "67",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:26",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "venig / veenhoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "26",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:54",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "lemig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "54",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:82",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleisteenlenzen / -banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "82",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:13",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "andere klasten"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "13",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:41",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "psammitisch"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "41",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:5",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "doffe pyriet"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "5",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:19",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "escaille"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "19",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:75",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kalkhoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "75",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:34",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "brokkelig / splinterig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "34",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:62",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleiige banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "62",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:21",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "vals dak"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "21",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:68",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kalkrijke banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "68",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:0",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "onbepaald"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "0",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:27",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "steenbrokjes"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "27",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:55",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "ligniethoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "55",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:83",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "chalcopyrietknollen / -lagen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "83",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:14",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "carbonaathoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "14",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:42",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "silikaathoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "42",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:70",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "fijnkorrelig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "70",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:6",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "helle pyriet"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "6",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:76",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "anhydrietknollen / lenzen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "76",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:35",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "carbonaatconcretie"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "35",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:63",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "mergelige banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "63",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:22",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "verweerd"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "22",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:69",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zachte banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "69",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "colt:secundairekenmerktype",
-            "skos:member": [
-                {
-                    "@id": "ct:85"
-                },
-                {
-                    "@id": "ct:26"
-                },
-                {
-                    "@id": "ct:86"
-                },
-                {
-                    "@id": "ct:30"
-                },
-                {
-                    "@id": "ct:6"
-                },
-                {
-                    "@id": "ct:72"
-                },
-                {
-                    "@id": "ct:31"
-                },
-                {
-                    "@id": "ct:33"
-                },
-                {
-                    "@id": "ct:15"
-                },
-                {
-                    "@id": "ct:77"
-                },
-                {
-                    "@id": "ct:41"
-                },
-                {
-                    "@id": "ct:21"
-                },
-                {
-                    "@id": "ct:23"
-                },
-                {
-                    "@id": "ct:83"
-                },
-                {
-                    "@id": "ct:65"
-                },
-                {
-                    "@id": "ct:42"
-                },
-                {
-                    "@id": "ct:52"
-                },
-                {
-                    "@id": "ct:67"
-                },
-                {
-                    "@id": "ct:1"
-                },
-                {
-                    "@id": "ct:58"
-                },
-                {
-                    "@id": "ct:24"
-                },
-                {
-                    "@id": "ct:44"
-                },
-                {
-                    "@id": "ct:3"
-                },
-                {
-                    "@id": "ct:62"
-                },
-                {
-                    "@id": "ct:76"
-                },
-                {
-                    "@id": "ct:68"
-                },
-                {
-                    "@id": "ct:37"
-                },
-                {
-                    "@id": "ct:4"
-                },
-                {
-                    "@id": "ct:10"
-                },
-                {
-                    "@id": "ct:12"
-                },
-                {
-                    "@id": "ct:13"
-                },
-                {
-                    "@id": "ct:27"
-                },
-                {
-                    "@id": "ct:28"
-                },
-                {
-                    "@id": "ct:7"
-                },
-                {
-                    "@id": "ct:32"
-                },
-                {
-                    "@id": "ct:34"
-                },
-                {
-                    "@id": "ct:8"
-                },
-                {
-                    "@id": "ct:80"
-                },
-                {
-                    "@id": "ct:60"
-                },
-                {
-                    "@id": "ct:53"
-                },
-                {
-                    "@id": "ct:16"
-                },
-                {
-                    "@id": "ct:78"
-                },
-                {
-                    "@id": "ct:55"
-                },
-                {
-                    "@id": "ct:35"
-                },
-                {
-                    "@id": "ct:73"
-                },
-                {
-                    "@id": "ct:17"
-                },
-                {
-                    "@id": "ct:79"
-                },
-                {
-                    "@id": "ct:19"
-                },
-                {
-                    "@id": "ct:43"
-                },
-                {
-                    "@id": "ct:45"
-                },
-                {
-                    "@id": "ct:25"
-                },
-                {
-                    "@id": "ct:63"
-                },
-                {
-                    "@id": "ct:40"
-                },
-                {
-                    "@id": "ct:69"
-                },
-                {
-                    "@id": "ct:38"
-                },
-                {
-                    "@id": "ct:46"
-                },
-                {
-                    "@id": "ct:84"
-                },
-                {
-                    "@id": "ct:5"
-                },
-                {
-                    "@id": "ct:64"
-                },
-                {
-                    "@id": "ct:59"
-                },
-                {
-                    "@id": "ct:70"
-                },
-                {
-                    "@id": "ct:14"
-                },
-                {
-                    "@id": "ct:71"
-                },
-                {
-                    "@id": "ct:29"
-                },
-                {
-                    "@id": "ct:9"
-                },
-                {
-                    "@id": "ct:81"
-                },
-                {
-                    "@id": "ct:61"
-                },
-                {
-                    "@id": "ct:54"
-                },
-                {
-                    "@id": "ct:20"
-                },
-                {
-                    "@id": "ct:56"
-                },
-                {
-                    "@id": "ct:22"
-                },
-                {
-                    "@id": "ct:36"
-                },
-                {
-                    "@id": "ct:74"
-                },
-                {
-                    "@id": "ct:82"
-                },
-                {
-                    "@id": "ct:51"
-                },
-                {
-                    "@id": "ct:18"
-                },
-                {
-                    "@id": "ct:66"
-                },
-                {
-                    "@id": "ct:0"
-                },
-                {
-                    "@id": "ct:57"
-                },
-                {
-                    "@id": "ct:2"
-                },
-                {
-                    "@id": "ct:75"
-                },
-                {
-                    "@id": "ct:11"
-                }
-            ],
-            "@type": "skos:Collection",
-            "skos:mappingRelation": {
-                "@id": "file:///tmp/Rtmph1EMmk/secundairekenmerktype"
-            },
-            "dc:identifier": "secundairekenmerktype",
-            "skos:inScheme": {
-                "@id": "file:///tmp/Rtmph1EMmk/cs"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "Collectie van secundairekenmerktype."
-            }
-        },
-        {
-            "@id": "ct:30",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "vivianiethoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "30",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:15",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "poreus"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "15",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:77",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "sideriethoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "77",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:23",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "veldspaatrijk"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "23",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:1",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "bitumineus / kolig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "1",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:10",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "koolstrepen"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "10",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:28",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "glauconiethoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "28",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:7",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "sferosideriet"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "7",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:43",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "marmering / spikkeling"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "43",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:84",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "dolomietbanken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "84",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:64",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "zandige banken"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "64",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:71",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "grofkorrelig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "71",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:56",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "micahoudend"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "56",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:36",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "fosfaatknol"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "36",
-            "@type": "skos:Concept"
-        },
-        {
-            "@id": "ct:51",
-            "skos:topConceptOf": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "skos:prefLabel": {
-                "@language": "nl",
-                "@value": "kleiig"
-            },
-            "skos:inScheme": {
-                "@id": "cs:secundairekenmerktype"
-            },
-            "dc:identifier": "51",
-            "@type": "skos:Concept"
-        }
-    ],
     "@context": {
-        "cs": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
-        "ct": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/",
-        "dct": "http://purl.org/dc/terms/",
-        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-        "xsd": "http://www.w3.org/2001/XMLSchema#",
-        "skos": "http://www.w3.org/2004/02/skos/core#",
-        "colt": "https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/",
+        "sparql-service-description-graph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#graph",
+            "@type": "@id"
+        },
+        "defaultGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultGraph",
+            "@type": "@id"
+        },
+        "collections": {
+            "@type": "@id",
+            "@reverse": "member"
+        },
+        "id": "@id",
+        "type": {
+            "@id": "@type",
+            "@type": "@id"
+        },
+        "source": {
+            "@id": "http://purl.org/dc/terms/source",
+            "@type": "@id"
+        },
+        "sparql-service-description-name": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#name",
+            "@type": "@id"
+        },
+        "identifier": {
+            "@id": "http://purl.org/dc/terms/identifier",
+            "@type": "@id"
+        },
+        "hasVersion": {
+            "@id": "http://purl.org/dc/terms/hasVersion",
+            "@type": "@id"
+        },
+        "isVersionOf": {
+            "@id": "http://purl.org/dc/terms/isVersionOf",
+            "@type": "@id"
+        },
+        "label": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#label",
+            "@language": "nl"
+        },
+        "distribution": {
+            "@id": "http://www.w3.org/ns/dcat#distribution",
+            "@type": "@id"
+        },
+        "alternative": {
+            "@id": "http://purl.org/dc/terms/alternative",
+            "@language": "nl"
+        },
+        "description": {
+            "@id": "http://purl.org/dc/terms/description",
+            "@language": "nl"
+        },
+        "spatial": {
+            "@id": "http://purl.org/dc/terms/spatial",
+            "@type": "@id"
+        },
+        "page": {
+            "@id": "http://xmlns.com/foaf/0.1/page",
+            "@type": "@id"
+        },
+        "theme": {
+            "@id": "http://www.w3.org/ns/dcat#theme",
+            "@type": "@id"
+        },
+        "title": {
+            "@id": "http://purl.org/dc/terms/title",
+            "@language": "nl"
+        },
+        "landingPage": {
+            "@id": "http://www.w3.org/ns/dcat#landingPage",
+            "@type": "@id"
+        },
+        "rightsHolder": {
+            "@id": "http://purl.org/dc/terms/rightsHolder",
+            "@type": "@id"
+        },
+        "language": "http://publications.europa.eu/resource/authority/language/",
+        "accrualPeriodicity": {
+            "@id": "http://purl.org/dc/terms/accrualPeriodicity",
+            "@type": "@id"
+        },
+        "publisher": {
+            "@id": "http://purl.org/dc/terms/publisher",
+            "@type": "@id"
+        },
+        "dct.language": {
+            "@id": "http://purl.org/dc/terms/language",
+            "@type": "@id"
+        },
+        "contactPoint": {
+            "@id": "http://www.w3.org/ns/dcat#contactPoint",
+            "@type": "@id"
+        },
+        "temporal": {
+            "@id": "http://purl.org/dc/terms/temporal",
+            "@type": "@id"
+        },
+        "issued": {
+            "@id": "http://purl.org/dc/terms/issued",
+            "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+        },
+        "accessRights": {
+            "@id": "http://purl.org/dc/terms/accessRights",
+            "@type": "@id"
+        },
+        "license": {
+            "@id": "http://purl.org/dc/terms/license",
+            "@type": "@id"
+        },
+        "accessURL": {
+            "@id": "http://www.w3.org/ns/dcat#accessURL",
+            "@type": "@id"
+        },
+        "compressFormat": {
+            "@id": "http://www.w3.org/ns/dcat#compressFormat",
+            "@type": "@id"
+        },
+        "downloadURL": {
+            "@id": "http://www.w3.org/ns/dcat#downloadURL",
+            "@type": "@id"
+        },
+        "mediaType": {
+            "@id": "http://www.w3.org/ns/dcat#mediaType",
+            "@type": "@id"
+        },
+        "format": {
+            "@id": "http://purl.org/dc/terms/format",
+            "@type": "@id"
+        },
+        "versionInfo": {
+            "@id": "http://spdx.org/rdf/terms#versionInfo"
+        },
+        "packageName": {
+            "@id": "http://spdx.org/rdf/terms#packageName"
+        },
+        "packageFileName": {
+            "@id": "http://spdx.org/rdf/terms#packageFileName"
+        },
+        "downloadLocation": {
+            "@id": "http://spdx.org/rdf/terms#downloadLocation",
+            "@type": "@id"
+        },
+        "relationshipType_packageOf": {
+            "@id": "http://spdx.org/rdf/terms#relationshipType_packageOf",
+            "@type": "@id"
+        },
+        "availableGraphs": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#availableGraphs",
+            "@type": "@id"
+        },
+        "resultFormat": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#resultFormat",
+            "@type": "@id"
+        },
+        "feature": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#feature",
+            "@type": "@id"
+        },
+        "supportedLanguage": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#supportedLanguage",
+            "@type": "@id"
+        },
+        "url": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#url",
+            "@type": "@id"
+        },
+        "comment": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#comment",
+            "@language": "nl"
+        },
+        "defaultDataset": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#defaultDataset",
+            "@type": "@id"
+        },
+        "endpoint": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#endpoint",
+            "@type": "@id"
+        },
+        "namedGraph": {
+            "@id": "http://www.w3.org/ns/sparql-service-description#namedGraph",
+            "@type": "@id"
+        },
+        "homepage": {
+            "@id": "http://xmlns.com/foaf/0.1/homepage",
+            "@type": "@id"
+        },
+        "service": {
+            "@id": "http://www.w3.org/ns/dcat#service",
+            "@type": "@id"
+        },
+        "rootResource": {
+            "@id": "http://rdfs.org/ns/void#rootResource",
+            "@type": "@id"
+        },
+        "dataset": {
+            "@id": "http://www.w3.org/ns/dcat#dataset",
+            "@type": "@id"
+        },
+        "servesDataset": {
+            "@id": "http://www.w3.org/ns/dcat#servesDataset",
+            "@type": "@id"
+        },
+        "endpointDescription": {
+            "@id": "http://www.w3.org/ns/dcat#endpointDescription",
+            "@type": "@id"
+        },
+        "endpointURL": {
+            "@id": "http://www.w3.org/ns/dcat#endpointURL",
+            "@type": "@id"
+        },
+        "conformsTo": {
+            "@id": "http://purl.org/dc/terms/conformsTo",
+            "@type": "@id"
+        },
+        "dc.identifier": {
+            "@id": "http://purl.org/dc/elements/1.1/identifier"
+        },
+        "dc.language": {
+            "@id": "http://purl.org/dc/elements/1.1/language",
+            "@language": "nl"
+        },
+        "dc.source": {
+            "@id": "http://purl.org/dc/elements/1.1/source"
+        },
+        "version": {
+            "@id": "http://www.w3.org/2002/07/owl#versionInfo"
+        },
+        "name": {
+            "@id": "http://spdx.org/rdf/terms#name"
+        },
+        "seeAlso": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso",
+            "@type": "@id"
+        },
+        "inScheme": {
+            "@id": "http://www.w3.org/2004/02/skos/core#inScheme",
+            "@type": "@id"
+        },
+        "topConceptOf": {
+            "@id": "http://www.w3.org/2004/02/skos/core#topConceptOf",
+            "@type": "@id"
+        },
+        "hasTopConcept": {
+            "@id": "http://www.w3.org/2004/02/skos/core#hasTopConcept",
+            "@type": "@id"
+        },
+        "uri": {
+            "@id": "@id",
+            "@type": "@id"
+        },
+        "prefLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#prefLabel",
+            "@language": "nl"
+        },
+        "notation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#notation"
+        },
+        "altLabel": {
+            "@id": "http://www.w3.org/2004/02/skos/core#altLabel",
+            "@language": "nl"
+        },
+        "note": {
+            "@id": "http://www.w3.org/2004/02/skos/core#note",
+            "@language": "nl"
+        },
+        "definition": {
+            "@id": "http://www.w3.org/2004/02/skos/core#definition",
+            "@language": "nl"
+        },
+        "member": {
+            "@id": "http://www.w3.org/2004/02/skos/core#member",
+            "@type": "@id"
+        },
+        "casNumber": {
+            "@id": "http://dbpedia.org/ontology/casNumber"
+        },
+        "references": {
+            "@id": "http://purl.org/dc/terms/references",
+            "@type": "@id"
+        },
+        "isReferencedBy": {
+            "@id": "http://purl.org/dc/terms/isReferencedBy",
+            "@type": "@id"
+        },
+        "relation": {
+            "@id": "http://purl.org/dc/terms/relation",
+            "@type": "@id"
+        },
+        "graph": {
+            "@id": "@graph"
+        },
+        "broaderTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broaderTransitive",
+            "@type": "@id"
+        },
+        "broadMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broadMatch",
+            "@type": "@id"
+        },
+        "closeMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#closeMatch",
+            "@type": "@id"
+        },
+        "exactMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#exactMatch",
+            "@type": "@id"
+        },
+        "mappingRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#mappingRelation",
+            "@type": "@id"
+        },
+        "broader": {
+            "@id": "http://www.w3.org/2004/02/skos/core#broader",
+            "@type": "@id"
+        },
+        "narrower": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrower",
+            "@type": "@id"
+        },
+        "narrowerTransitive": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowerTransitive",
+            "@type": "@id"
+        },
+        "narrowMatch": {
+            "@id": "http://www.w3.org/2004/02/skos/core#narrowMatch",
+            "@type": "@id"
+        },
+        "semanticRelation": {
+            "@id": "http://www.w3.org/2004/02/skos/core#semanticRelation",
+            "@type": "@id"
+        },
+        "belongsTo": {
+            "@id": "http://rdf-vocabulary.ddialliance.org/xkos#belongsTo",
+            "@type": "@id"
+        },
+        "concept": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/",
+        "collectie": "https://data.bodemenondergrond.vlaanderen.be/id/collection/secundairekenmerktype/",
+        "access_right": "http://publications.europa.eu/resource/authority/access-right/",
+        "adms": "http://www.w3.org/ns/adms#",
+        "assettype": "http://purl.org/adms/assettype/",
+        "conceptscheme": "https://data.bodemenondergrond.vlaanderen.be/id/conceptscheme/",
+        "country": "http://publications.europa.eu/resource/authority/country/",
+        "datasets": "https://datasets.omgeving.vlaanderen.be/",
+        "datatheme_be": "http://vocab.belgif.be/auth/datatheme/",
+        "datatheme_eu": "http://publications.europa.eu/resource/authority/data-theme/",
+        "dbo": "http://dbpedia.org/ontology/",
+        "dcat": "http://www.w3.org/ns/dcat#",
         "dc": "http://purl.org/dc/elements/1.1/",
-        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#"
-    }
+        "dcterms": "http://purl.org/dc/terms/",
+        "dct": "http://purl.org/dc/terms/",
+        "eurovoc": "http://eurovoc.europa.eu/",
+        "file_type": "http://publications.europa.eu/resource/authority/file-type/",
+        "foaf": "http://xmlns.com/foaf/0.1/",
+        "formats": "http://www.w3.org/ns/formats/",
+        "frequency": "http://publications.europa.eu/resource/authority/frequency/",
+        "gemet": "http://www.eionet.europa.eu/gemet/concept/",
+        "licence": "http://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/",
+        "metadata": "https://data.omgeving.vlaanderen.be/ns/metadata#",
+        "omg_catalog": "https://data.bodemenondergrond.vlaanderen.be/id/catalog/",
+        "omg_catalog_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/catalog/",
+        "omg_collection": "https://data.bodemenondergrond.vlaanderen.be/id/collection/",
+        "omg_dataservice": "https://data.bodemenondergrond.vlaanderen.be/id/dataservice/",
+        "omg_dataset_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/dataset/",
+        "omg_dataset": "https://data.bodemenondergrond.vlaanderen.be/id/dataset/",
+        "omg_distribution_doc": "https://data.bodemenondergrond.vlaanderen.be/doc/distribution/",
+        "omg_distribution": "https://data.bodemenondergrond.vlaanderen.be/id/distribution/",
+        "omg_graphcollection": "https://data.bodemenondergrond.vlaanderen.be/id/graphcollection/",
+        "omg_graph": "https://data.bodemenondergrond.vlaanderen.be/id/graph/",
+        "omg_id": "https://data.bodemenondergrond.vlaanderen.be/id/",
+        "omg_named_graph": "https://data.bodemenondergrond.vlaanderen.be/id/namedgraph/",
+        "omg_ontology": "https://data.bodemenondergrond.vlaanderen.be/id/ontology/",
+        "omg_package": "https://data.bodemenondergrond.vlaanderen.be/id/package/",
+        "omg_periodoftime": "https://data.bodemenondergrond.vlaanderen.be/id/periodoftime/",
+        "omg_service": "https://data.bodemenondergrond.vlaanderen.be/id/service/",
+        "omg_vcard": "https://data.bodemenondergrond.vlaanderen.be/id/vcard/",
+        "ovo": "http://data.vlaanderen.be/id/organisatie/",
+        "owl": "http://www.w3.org/2002/07/owl#",
+        "repo": "https://repo.omgeving.vlaanderen.be/artifactory/release/",
+        "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+        "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+        "sd": "http://www.w3.org/ns/sparql-service-description#",
+        "skos": "http://www.w3.org/2004/02/skos/core#",
+        "spdx": "http://spdx.org/rdf/terms#",
+        "ssd": "http://www.w3.org/ns/sparql-service-description#",
+        "ts": "http://www.w3.org/ns/formats/",
+        "vcard": "http://www.w3.org/2006/vcard/ns#",
+        "void": "http://rdfs.org/ns/void#",
+        "wise": "http://dd.eionet.europa.eu/vocabulary/wise/ObservedProperty/",
+        "xkos": "http://rdf-vocabulary.ddialliance.org/xkos#",
+        "xsd": "http://www.w3.org/2001/XMLSchema#",
+        "@base": "https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/"
+    },
+    "graph": [
+        {
+            "id": "collectie:secundairekenmerktype",
+            "type": "skos:Collection",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.collection.secundairekenmerktype.secundairekenmerktype",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "member": [
+                "concept:0",
+                "concept:10",
+                "concept:11",
+                "concept:12",
+                "concept:13",
+                "concept:14",
+                "concept:15",
+                "concept:16",
+                "concept:17",
+                "concept:18",
+                "concept:19",
+                "concept:1",
+                "concept:20",
+                "concept:21",
+                "concept:22",
+                "concept:23",
+                "concept:24",
+                "concept:25",
+                "concept:26",
+                "concept:27",
+                "concept:28",
+                "concept:29",
+                "concept:2",
+                "concept:30",
+                "concept:31",
+                "concept:32",
+                "concept:33",
+                "concept:34",
+                "concept:35",
+                "concept:36",
+                "concept:37",
+                "concept:38",
+                "concept:3",
+                "concept:40",
+                "concept:41",
+                "concept:42",
+                "concept:43",
+                "concept:44",
+                "concept:45",
+                "concept:46",
+                "concept:4",
+                "concept:51",
+                "concept:52",
+                "concept:53",
+                "concept:54",
+                "concept:55",
+                "concept:56",
+                "concept:57",
+                "concept:58",
+                "concept:59",
+                "concept:5",
+                "concept:60",
+                "concept:61",
+                "concept:62",
+                "concept:63",
+                "concept:64",
+                "concept:65",
+                "concept:66",
+                "concept:67",
+                "concept:68",
+                "concept:69",
+                "concept:6",
+                "concept:70",
+                "concept:71",
+                "concept:72",
+                "concept:73",
+                "concept:74",
+                "concept:75",
+                "concept:76",
+                "concept:77",
+                "concept:78",
+                "concept:79",
+                "concept:7",
+                "concept:80",
+                "concept:81",
+                "concept:82",
+                "concept:83",
+                "concept:84",
+                "concept:85",
+                "concept:86",
+                "concept:8",
+                "concept:9"
+            ],
+            "prefLabel": "Collectie van secundairekenmerktype."
+        },
+        {
+            "id": "concept:0",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.0",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "0",
+            "prefLabel": "onbepaald",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:1",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.1",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "1",
+            "prefLabel": "bitumineus / kolig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:10",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.10",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "10",
+            "prefLabel": "koolstrepen",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:11",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.11",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "11",
+            "prefLabel": "ingekoolde stammen",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:12",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.12",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "12",
+            "prefLabel": "koolklasten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:13",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.13",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "13",
+            "prefLabel": "andere klasten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:14",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.14",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "14",
+            "prefLabel": "carbonaathoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:15",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.15",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "15",
+            "prefLabel": "poreus",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:16",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.16",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "16",
+            "prefLabel": "paleosol / gesloten bedding",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:17",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.17",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "17",
+            "prefLabel": "doorworteld / organische resten / houtresten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:18",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.18",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "18",
+            "prefLabel": "valse muur (vloer)",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:19",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.19",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "19",
+            "prefLabel": "escaille",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:2",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.2",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "2",
+            "prefLabel": "siderietband",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:20",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.20",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "20",
+            "prefLabel": "gepyritiseerd",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:21",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.21",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "21",
+            "prefLabel": "vals dak",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:22",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.22",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "22",
+            "prefLabel": "verweerd",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:23",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.23",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "23",
+            "prefLabel": "veldspaatrijk",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:24",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.24",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "24",
+            "prefLabel": "kwartsietisch",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:25",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.25",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "25",
+            "prefLabel": "korrelig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:26",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.26",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "26",
+            "prefLabel": "venig / veenhoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:27",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.27",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "27",
+            "prefLabel": "steenbrokjes",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:28",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.28",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "28",
+            "prefLabel": "glauconiethoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:29",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.29",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "29",
+            "prefLabel": "kwartshoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:3",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.3",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "3",
+            "prefLabel": "siderietknol / siderietlens",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:30",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.30",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "30",
+            "prefLabel": "vivianiethoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:31",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.31",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "31",
+            "prefLabel": "vuursteenhoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:32",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.32",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "32",
+            "prefLabel": "verkiezeld",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:33",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.33",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "33",
+            "prefLabel": "ontkalkt",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:34",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.34",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "34",
+            "prefLabel": "brokkelig / splinterig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:35",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.35",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "35",
+            "prefLabel": "carbonaatconcretie",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:36",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.36",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "36",
+            "prefLabel": "fosfaatknol",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:37",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.37",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "37",
+            "prefLabel": "pyrietknol / laag",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:38",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.38",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "38",
+            "prefLabel": "anhydriet / gipshoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:4",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.4",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "4",
+            "prefLabel": "tonstein",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:40",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.40",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "40",
+            "prefLabel": "gipsknollen / lenzen",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:41",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.41",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "41",
+            "prefLabel": "psammitisch",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:42",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.42",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "42",
+            "prefLabel": "silikaathoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:43",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.43",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "43",
+            "prefLabel": "marmering / spikkeling",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:44",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.44",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "44",
+            "prefLabel": "dolomiethoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:45",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.45",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "45",
+            "prefLabel": "septaria",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:46",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.46",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "46",
+            "prefLabel": "'coal ball'",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:5",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.5",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "5",
+            "prefLabel": "doffe pyriet",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:51",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.51",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "51",
+            "prefLabel": "kleiig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:52",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.52",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "52",
+            "prefLabel": "kalklenzen / bankjes",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:53",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.53",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "53",
+            "prefLabel": "limoniet- / ijzerhoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:54",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.54",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "54",
+            "prefLabel": "lemig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:55",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.55",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "55",
+            "prefLabel": "ligniethoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:56",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.56",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "56",
+            "prefLabel": "micahoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:57",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.57",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "57",
+            "prefLabel": "harde banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:58",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.58",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "58",
+            "prefLabel": "zacht",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:59",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.59",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "59",
+            "prefLabel": "zandig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:6",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.6",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "6",
+            "prefLabel": "helle pyriet",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:60",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.60",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "60",
+            "prefLabel": "basisgrind",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:61",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.61",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "61",
+            "prefLabel": "zandsteenbanken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:62",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.62",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "62",
+            "prefLabel": "kleiige banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:63",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.63",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "63",
+            "prefLabel": "mergelige banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:64",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.64",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "64",
+            "prefLabel": "zandige banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:65",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.65",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "65",
+            "prefLabel": "grindbanken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:66",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.66",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "66",
+            "prefLabel": "markasietknollen",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:67",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.67",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "67",
+            "prefLabel": "kristallijn",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:68",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.68",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "68",
+            "prefLabel": "kalkrijke banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:69",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.69",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "69",
+            "prefLabel": "zachte banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:7",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.7",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "7",
+            "prefLabel": "sferosideriet",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:70",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.70",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "70",
+            "prefLabel": "fijnkorrelig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:71",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.71",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "71",
+            "prefLabel": "grofkorrelig",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:72",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.72",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "72",
+            "prefLabel": "onregelmatige verkiezeling (concreties)",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:73",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.73",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "73",
+            "prefLabel": "hematiethoudend / hematietoölieten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:74",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.74",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "74",
+            "prefLabel": "zandsteenklasten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:75",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.75",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "75",
+            "prefLabel": "kalkhoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:76",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.76",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "76",
+            "prefLabel": "anhydrietknollen / lenzen",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:77",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.77",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "77",
+            "prefLabel": "sideriethoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:78",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.78",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "78",
+            "prefLabel": "siltsteenklasten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:79",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.79",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "79",
+            "prefLabel": "kleisteenklasten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:8",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.8",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "8",
+            "prefLabel": "kaoliniet oölieten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:80",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.80",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "80",
+            "prefLabel": "siltsteenbanken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:81",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.81",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "81",
+            "prefLabel": "kalksteenbanken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:82",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.82",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "82",
+            "prefLabel": "kleisteenlenzen / -banken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:83",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.83",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "83",
+            "prefLabel": "chalcopyrietknollen / -lagen",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:84",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.84",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "84",
+            "prefLabel": "dolomietbanken",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:85",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.85",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "85",
+            "prefLabel": "krijtklasten",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:86",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.86",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "86",
+            "prefLabel": "pyriet",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:9",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.9",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "9",
+            "prefLabel": "coquina / schelpenkalk",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "conceptscheme:secundairekenmerktype",
+            "type": "skos:ConceptScheme",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairekenmerktype",
+            "hasTopConcept": [
+                "concept:0",
+                "concept:10",
+                "concept:11",
+                "concept:12",
+                "concept:13",
+                "concept:14",
+                "concept:15",
+                "concept:16",
+                "concept:17",
+                "concept:18",
+                "concept:19",
+                "concept:1",
+                "concept:20",
+                "concept:21",
+                "concept:22",
+                "concept:23",
+                "concept:24",
+                "concept:25",
+                "concept:26",
+                "concept:27",
+                "concept:28",
+                "concept:29",
+                "concept:2",
+                "concept:30",
+                "concept:31",
+                "concept:32",
+                "concept:33",
+                "concept:34",
+                "concept:35",
+                "concept:36",
+                "concept:37",
+                "concept:38",
+                "concept:3",
+                "concept:40",
+                "concept:41",
+                "concept:42",
+                "concept:43",
+                "concept:44",
+                "concept:45",
+                "concept:46",
+                "concept:4",
+                "concept:51",
+                "concept:52",
+                "concept:53",
+                "concept:54",
+                "concept:55",
+                "concept:56",
+                "concept:57",
+                "concept:58",
+                "concept:59",
+                "concept:5",
+                "concept:60",
+                "concept:61",
+                "concept:62",
+                "concept:63",
+                "concept:64",
+                "concept:65",
+                "concept:66",
+                "concept:67",
+                "concept:68",
+                "concept:69",
+                "concept:6",
+                "concept:70",
+                "concept:71",
+                "concept:72",
+                "concept:73",
+                "concept:74",
+                "concept:75",
+                "concept:76",
+                "concept:77",
+                "concept:78",
+                "concept:79",
+                "concept:7",
+                "concept:80",
+                "concept:81",
+                "concept:82",
+                "concept:83",
+                "concept:84",
+                "concept:85",
+                "concept:86",
+                "concept:8",
+                "concept:9"
+            ],
+            "prefLabel": "lijst met types secundaire kenmerken"
+        }
+    ]
 }

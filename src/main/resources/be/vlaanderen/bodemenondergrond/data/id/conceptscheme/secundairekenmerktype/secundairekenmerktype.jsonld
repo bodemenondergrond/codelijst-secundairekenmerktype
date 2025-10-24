@@ -395,28 +395,6 @@
     },
     "graph": [
         {
-            "id": "concepts:sf",
-            "type": "skos:Concept",
-            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sf",
-            "definition": "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa.",
-            "inScheme": "conceptscheme:secundairekenmerktype",
-            "notation": "SF",
-            "note": "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa.",
-            "prefLabel": "sferosideriet",
-            "topConceptOf": "conceptscheme:secundairekenmerktype"
-        },
-        {
-            "id": "concepts:sh",
-            "type": "skos:Concept",
-            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sh",
-            "definition": "Interval dat silikaat bevat.",
-            "inScheme": "conceptscheme:secundairekenmerktype",
-            "notation": "SH",
-            "note": "Interval dat silikaat bevat.",
-            "prefLabel": "silikaathoudend",
-            "topConceptOf": "conceptscheme:secundairekenmerktype"
-        },
-        {
             "id": "http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite",
             "type": "skos:Concept",
             "closeMatch": [
@@ -1046,6 +1024,28 @@
             "topConceptOf": "conceptscheme:secundairekenmerktype"
         },
         {
+            "id": "concept:sf",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sf",
+            "definition": "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa.",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "SF",
+            "note": "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa.",
+            "prefLabel": "sferosideriet",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
+            "id": "concept:sh",
+            "type": "skos:Concept",
+            "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sh",
+            "definition": "Interval dat silikaat bevat.",
+            "inScheme": "conceptscheme:secundairekenmerktype",
+            "notation": "SH",
+            "note": "Interval dat silikaat bevat.",
+            "prefLabel": "silikaathoudend",
+            "topConceptOf": "conceptscheme:secundairekenmerktype"
+        },
+        {
             "id": "concept:si",
             "type": "skos:Concept",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.si",
@@ -1241,8 +1241,6 @@
             "type": "skos:ConceptScheme",
             "dc.identifier": "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairekenmerktype",
             "hasTopConcept": [
-                "concepts:sf",
-                "concepts:sh",
                 "concept:pd",
                 "concept:ph",
                 "concept:pk",
@@ -1291,6 +1289,8 @@
                 "concept:sb",
                 "concept:sc",
                 "concept:se",
+                "concept:sf",
+                "concept:sh",
                 "concept:si",
                 "concept:sk",
                 "concept:sl",

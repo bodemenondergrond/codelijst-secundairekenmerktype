@@ -2,8 +2,6 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="urn:be.vlaanderen.bodemenondergrond.data.id.graph:codelijst-secundairekenmerktype">
   <xs:simpleType name="be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairekenmerktype">
     <xs:restriction base="xs:string">
-      <xs:enumeration value="concepts:sf" />
-      <xs:enumeration value="concepts:sh" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/ak" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/an" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/bg" />
@@ -52,6 +50,8 @@
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/sb" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/sc" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/se" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/sf" />
+      <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/sh" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/si" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/sk" />
       <xs:enumeration value="https://data.bodemenondergrond.vlaanderen.be/id/concept/secundairekenmerktype/sl" />

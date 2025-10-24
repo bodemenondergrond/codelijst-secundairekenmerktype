@@ -54,22 +54,6 @@
 @prefix xkos: <http://rdf-vocabulary.ddialliance.org/xkos#>.
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
 
-<concepts:sf> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sf";
-    a skos:Concept;
-    skos:definition "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa."@nl;
-    skos:inScheme conceptscheme:secundairekenmerktype;
-    skos:notation "SF";
-    skos:note "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa."@nl;
-    skos:prefLabel "sferosideriet"@nl;
-    skos:topConceptOf conceptscheme:secundairekenmerktype.
-<concepts:sh> dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sh";
-    a skos:Concept;
-    skos:definition "Interval dat silikaat bevat."@nl;
-    skos:inScheme conceptscheme:secundairekenmerktype;
-    skos:notation "SH";
-    skos:note "Interval dat silikaat bevat."@nl;
-    skos:prefLabel "silikaathoudend"@nl;
-    skos:topConceptOf conceptscheme:secundairekenmerktype.
 <http://inspire.ec.europa.eu/codelist/CommodityCodeValue/pyrite> a skos:Concept;
     skos:closeMatch concept:pd, concept:ph, concept:pk;
     skos:mappingRelation concept:pd, concept:ph, concept:pk;
@@ -528,6 +512,22 @@ concept:se dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secund
     skos:note "Een ronde afgeplatte carbonaatconcretie met krimpscheuren binnenin, mogelijk opgevuld met mineralisaties."@nl;
     skos:prefLabel "septaria"@nl;
     skos:topConceptOf conceptscheme:secundairekenmerktype.
+concept:sf dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sf";
+    a skos:Concept;
+    skos:definition "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa."@nl;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "SF";
+    skos:note "Sideriet (ijzercarbonaat) in de vorm van een sferoïdale massa."@nl;
+    skos:prefLabel "sferosideriet"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
+concept:sh dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.sh";
+    a skos:Concept;
+    skos:definition "Interval dat silikaat bevat."@nl;
+    skos:inScheme conceptscheme:secundairekenmerktype;
+    skos:notation "SH";
+    skos:note "Interval dat silikaat bevat."@nl;
+    skos:prefLabel "silikaathoudend"@nl;
+    skos:topConceptOf conceptscheme:secundairekenmerktype.
 concept:si dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secundairekenmerktype.si";
     a skos:Concept;
     skos:definition "Een fijne band binnen het beschreven interval rijk aan sideriet (ijzercarbonaat)."@nl;
@@ -673,7 +673,7 @@ concept:zn dc:identifier "be.vlaanderen.bodemenondergrond.data.id.concept.secund
     skos:topConceptOf conceptscheme:secundairekenmerktype.
 conceptscheme:secundairekenmerktype dc:identifier "be.vlaanderen.bodemenondergrond.data.id.conceptscheme.secundairekenmerktype";
     a skos:ConceptScheme;
-    skos:hasTopConcept <concepts:sf>, <concepts:sh>, concept:ak, concept:an, concept:bg, concept:bi, concept:br, concept:ca, concept:cc, concept:ch, concept:co, concept:do, concept:es, concept:fi, concept:fo, concept:gi, concept:gk, concept:gr, concept:hb, concept:is, concept:ka, concept:kb, concept:ke, concept:ki, concept:kj, concept:kk, concept:kl, concept:ko, concept:kp, concept:kr, concept:ks, concept:kt, concept:kw, concept:ma, concept:me, concept:mi, concept:mk, concept:ok, concept:on, concept:ov, concept:pa, concept:pd, concept:ph, concept:pk, concept:po, concept:ps, concept:py, concept:sb, concept:sc, concept:se, concept:si, concept:sk, concept:sl, concept:st, concept:to, concept:vd, concept:ve, concept:vi, concept:vk, concept:vm, concept:vw, concept:za, concept:zb, concept:zc, concept:zk, concept:zn;
+    skos:hasTopConcept concept:ak, concept:an, concept:bg, concept:bi, concept:br, concept:ca, concept:cc, concept:ch, concept:co, concept:do, concept:es, concept:fi, concept:fo, concept:gi, concept:gk, concept:gr, concept:hb, concept:is, concept:ka, concept:kb, concept:ke, concept:ki, concept:kj, concept:kk, concept:kl, concept:ko, concept:kp, concept:kr, concept:ks, concept:kt, concept:kw, concept:ma, concept:me, concept:mi, concept:mk, concept:ok, concept:on, concept:ov, concept:pa, concept:pd, concept:ph, concept:pk, concept:po, concept:ps, concept:py, concept:sb, concept:sc, concept:se, concept:sf, concept:sh, concept:si, concept:sk, concept:sl, concept:st, concept:to, concept:vd, concept:ve, concept:vi, concept:vk, concept:vm, concept:vw, concept:za, concept:zb, concept:zc, concept:zk, concept:zn;
     skos:prefLabel "lijst met types secundaire kenmerken"@nl.
 <https://inspire.ec.europa.eu/codelist/AquiferMediaTypeValue/porous> a skos:Concept;
     skos:closeMatch concept:po;
